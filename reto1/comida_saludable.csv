@@ -1,0 +1,11 @@
+Nombre,Categoría,Calorías,Proteína (g),Grasas Totales (g),Carbohidratos (g),Apto Veg,Tiempo Prep (min),Popularidad (1-5),Sin Gluten,Orgánico
+Manzana,Fruta,95,0.5,0.3,25.0,Sí,5,4.5,Sí,Sí
+Quinoa,Grano,222,8.1,3.6,39.0,Sí,15,4.2,Sí,Sí
+Salmón,Proteína,206,22.0,12.0,0.0,No,20,4.8,Sí,No
+Yogur Griego,Lácteos,150,15.0,5.0,10.0,No,0,4.7,No,Sí
+Espinaca,Vegetal,23,2.9,0.4,3.6,Sí,10,4.3,Sí,Sí
+Frijoles Negros,Legumbres,114,7.6,0.5,20.4,Sí,60,4.0,Sí,No
+Aguacate,Fruta,160,2.0,15.0,9.0,Sí,5,4.6,Sí,Sí
+Huevos,Proteína,78,6.0,5.0,0.6,No,5,4.3,Sí,No
+Zanahoria,Vegetal,41,0.9,0.2,9.6,Sí,5,4.4,Sí,Sí
+Avena,Grano,150,5.0,3.0,27.0,Sí,5,4.5,Sí,Sí
